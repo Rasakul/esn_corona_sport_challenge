@@ -1,5 +1,5 @@
 import {Component, Inject, OnInit} from '@angular/core';
-import {DatasetModel, VirusTrackerData} from '../../models/dataset.model';
+import {VirusTrackerData} from '../../models/dataset.model';
 import {CoronaDataService} from '../../../core/services/corona-data.service';
 
 @Component({
